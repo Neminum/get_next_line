@@ -1,3 +1,6 @@
+*.txt
+Makefile
+main.c
 # Prerequisites
 *.d
 
